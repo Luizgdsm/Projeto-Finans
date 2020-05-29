@@ -1,0 +1,20 @@
+
+
+#corpo {
+	background-color: #ffc107;
+	color: white;
+}
+
+.espaco {
+	padding: 60px 0;
+	border-bottom: 2px solid #e5e5e5;
+	margin: 4px 0; 
+}
+
+hr {
+	border:2px solid #e5e5e5;
+}
+
+footer p a {
+	margin: 15px 20px;
+}	
